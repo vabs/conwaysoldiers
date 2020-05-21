@@ -1,0 +1,22 @@
+.cell {
+  height: 25px;
+  width: 25px;
+  background-color: bisque;
+  margin: 5px;
+}
+
+.cell:hover {
+  cursor: pointer;
+}
+
+.select {
+  background-color: aqua;
+}
+
+.selected {
+  background-color: red;
+}
+
+.canBeMovedTo {
+  background-color: lightgreen;
+}

@@ -1,0 +1,8 @@
+.float-left {
+  display: flex;
+  flex-direction: row;
+}
+
+.margin-5  {
+  margin: 5px;
+}
